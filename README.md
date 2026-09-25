@@ -119,3 +119,5 @@ swift run cue list  # 直接运行
 swift test           # 需要完整 Xcode（XCTest）
 ./Scripts/test.sh    # 无 Xcode 的轻量自测（Command Line Tools 即可）
 ```
+
+[MIT](https://github.com/kael-wq/cue/blob/main/LICENSE) 
